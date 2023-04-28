@@ -1,0 +1,3 @@
+hola ingeniero, como sabra en el caso de mi grupo , no es posible mostrar lo que avanzamos con un repositorio en git,
+ya que se trata de un servidor, lo que si puedo hacer es darle la direccion del servidor y el nombre de usuario 
+y la contraseña para que vea
